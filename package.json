@@ -1,0 +1,25 @@
+{
+  "name": "appfriend456",
+  "version": "1.0.0",
+  "description": "images of the results you get",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismarcosgomes/appfriend456.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismarcosgomes/appfriend456/issues"
+  },
+  "homepage": "https://github.com/chrismarcosgomes/appfriend456#readme"
+}
